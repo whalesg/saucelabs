@@ -1,0 +1,19 @@
+$height: 60px;
+
+.header {
+  position: static;
+  left: 0;
+  top: 0;
+  right: 0;
+  height: $height;
+  line-height: $height;
+  background: #444;
+  padding: 0 10px;
+  box-shadow: 0 3px 0 #0000001a;
+}
+
+.logo {
+  height: 60%;
+  vertical-align: middle;
+  display: inline-block;
+}
